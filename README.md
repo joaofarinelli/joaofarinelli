@@ -1,4 +1,4 @@
-### Oii! Eu sou o João Farinelli
+### Oie! Eu sou o João Farinelli
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando TypeScript
