@@ -1,4 +1,4 @@
-### Oie! Eu sou o João Farinelli, Desenvolvedor Full-Stack
+### Oie eu sou o João Farinelli, desenvolvedor full-stack
 
 <div>
 <a href="https://github.com/rafaballerini">
