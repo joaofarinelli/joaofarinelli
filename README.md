@@ -1,7 +1,5 @@
 ### Oie! Eu sou o João Farinelli
 
-🔭 Sou um desenvolvedor Full-Stack, trabalho tanto com Front-end quanto Back-end
-
 <div>
 <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaofarinelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
