@@ -1,6 +1,4 @@
-### Oie! Eu sou o João Farinelli
-
-Um Desenvolvedor Web, com conhecimento em diversas linguagens
+### Oie! Eu sou o João Farinelli, Desenvolvedor Full-Stack
 
 <div>
 <a href="https://github.com/rafaballerini">
