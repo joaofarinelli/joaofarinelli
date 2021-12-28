@@ -1,4 +1,5 @@
-### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> eu sou o João Farinelli, um desenvolvedor web, com conhecimentos full-stack
+### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Me chamo João Farinelli, sou um desenvolvedor Full-Stack
 
 <div>
 <a href="https://github.com/joaofarinelli">
